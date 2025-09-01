@@ -1,14 +1,3 @@
-## HELOUUU 👋
-
-
-### I’m currently working on
-
-- Currently enrolled in Scrimba’s AI Engineering Path.
-- Building a Portuguese language learning site with AI integration.
-- Honing and advancing my React skills.
-
-
-
 ### My Tech Stack               
 
 | **I know**                                 | **Some Experience with**               |
