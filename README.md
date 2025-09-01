@@ -1,5 +1,3 @@
-### My Tech Stack               
-
 | **I know**                                 | **Some Experience with**               |
 |---------------------------------------------------|-----------------------------------------|
 | ![React](./tech-icons/react.png) ![HTML5](./tech-icons/html5.png) ![CSS3](./tech-icons/css3.png) ![JavaScript](./tech-icons/js.png) ![Git](./tech-icons/git.png) ![Git](./tech-icons/github.png) | ![Java](./tech-icons/java.png) ![CSharp](./tech-icons/csharp.png) | 
