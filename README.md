@@ -9,13 +9,11 @@
 
 
 
-### My Tech Stack 
+### My Tech Stack               
 
-![React](./tech-icons/react.png) ![HTML5](./tech-icons/html5.png) ![CSS3](./tech-icons/css3.png) ![JavaScript](./tech-icons/js.png) ![Git](./tech-icons/git.png) ![Git](./tech-icons/github.png)
-
-### Some Experience with
-
-![Java](./tech-icons/java.png) ![CSharp](./tech-icons/csharp.png) 
+| **I know**                                 | **Some Experience with**               |
+|---------------------------------------------------|-----------------------------------------|
+| ![React](./tech-icons/react.png) ![HTML5](./tech-icons/html5.png) ![CSS3](./tech-icons/css3.png) ![JavaScript](./tech-icons/js.png) ![Git](./tech-icons/git.png) ![Git](./tech-icons/github.png) | ![Java](./tech-icons/java.png) ![CSharp](./tech-icons/csharp.png) | 
 
 ### 📫 How to reach me:
 
