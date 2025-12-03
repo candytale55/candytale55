@@ -1,3 +1,7 @@
+I enjoy learning by experimenting and building small pieces of software that help me understand the bigger concepts. I work best with clear structure, good documentation, and workflows that are easy to maintain. I’m also studying how AI works and how to use good engineering practices around it — from clean architecture to CI/CD and integrated testing.
+
+I’m currently looking for my first junior developer opportunity, where I can apply what I’m learning, grow through real-world practice, and contribute to a team that values clarity and continuous improvement.
+
 | **I know**                                 | **Some Experience with**               |
 |---------------------------------------------------|-----------------------------------------|
 | ![React](./tech-icons/react.png) ![HTML5](./tech-icons/html5.png) ![CSS3](./tech-icons/css3.png) ![JavaScript](./tech-icons/js.png) ![Git](./tech-icons/git.png) ![Git](./tech-icons/github.png) | ![Java](./tech-icons/java.png) ![CSharp](./tech-icons/csharp.png) | 
